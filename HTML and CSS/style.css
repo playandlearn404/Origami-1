@@ -1,0 +1,19 @@
+#heading {
+    color: white;
+    background-color: red;
+    font-family: monospace;
+    border: solid;
+    border-radius: 5px;
+    border-color: black;
+}
+#para {
+    color: brown;
+}
+
+.header {
+    color: royalblue;
+    font-weight: 300;
+    background-color: cyan;
+    display: flex;
+    align-content: flex-start | flex-end | center | space-between | space-around | space-evenly | stretch | start | end | baseline | first baseline | last baseline + ... safe | unsafe;
+}
